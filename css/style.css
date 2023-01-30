@@ -27,6 +27,7 @@ html,body {
 .navbar-nav .nav-link {
 font-weight:bold;
 font-size:1.2em;
+color:#fff;
 
 }
 
@@ -97,7 +98,7 @@ font-size:1.2em;
   color:#fff;
 }
 .content-text h1{
-  font-size:6em;
+  font-size:4rem;
 
   font-family: 'Alfa Slab One', cursive;
 }
@@ -165,6 +166,8 @@ font-size:1.2em;
   /*==============NEWS BLOG CARDS SECTION ==============*/
   .blog-cards{
     padding:0 5em;
+    max-width:1200px;
+    margin:auto;
   }
   .blog-cards .card-title {
     font-size:18px;
@@ -333,7 +336,10 @@ transition: transform 2s;
 
 /*===============ABOUT US =================*/
 
-
+.row{
+  max-width:1200px;
+  margin:auto;
+}
 .ours-text , .blog-head {
     color: #33b472;
     font-weight: bold;
@@ -494,7 +500,9 @@ font-weight: bold;
 	padding: 55px 50px;
   border-radius:20px;
   display:flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  margin: auto;
+  max-width:1200px;
 
 }
 
