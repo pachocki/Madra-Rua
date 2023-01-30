@@ -87,7 +87,7 @@ color:#fff;
 	max-height: 80%;
 	z-index: 100;
 }
-.content-text{
+.hero-text{
   position: absolute;
 	left: 100px;
 	max-width: 600px;
@@ -97,8 +97,8 @@ color:#fff;
   text-align: center;
   color:#fff;
 }
-.content-text h1{
-  font-size:4rem!important;
+.hero-text h1{
+  font-size:4rem;
   font-family: 'Alfa Slab One', cursive;
 }
 .hero-section
@@ -627,6 +627,9 @@ font-weight: bold;
   .sci{
     color:#a85e3f;
   }
+  .hero-text{
+    display:none;
+  }
 }
 
 
@@ -648,6 +651,7 @@ font-weight: bold;
   .section-head {
     font-size: 2.5rem;
 }
+
 }
 
 @media only screen and (max-width: 520px){
