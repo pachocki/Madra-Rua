@@ -6,3 +6,6 @@ The website is built using HTML, CSS, Bootstrap, JavaScript, and jQuery. These t
 
 # Getting started
 To view the website, simply navigate to the deployed link in your browser.
+# Full website image 
+![Website](https://github.com/pachocki/Madra-Rua/blob/main/imgs/madra-rua-pc.png)
+![Website](https://github.com/pachocki/Madra-Rua/blob/main/imgs/madra-rua-mobile.png)
